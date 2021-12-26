@@ -2,6 +2,8 @@
 
 My name is Daniel and I am currently in the second year of a software engineer apprenticeship.
 
-If you want to learn more about me, visit my portfolio at [daniel.lutz.is](https://daniel.lutz.is).
+My **Codepen** account: [Check out here](https://codepen.io/freakyshine)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=freakyshine" alt="timo-cmd2" /</p>
+If you want to learn more about me, visit my **portfolio** at [daniel.lutz.is](https://daniel.lutz.is).
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=freakyshine" alt="Copied from timo-cmd2" /</p>
